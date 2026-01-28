@@ -1,0 +1,7 @@
+EVALUATION METRICS
+========================================
+Top-1 Accuracy: 86.34%
+Top-5 Accuracy: 96.41%
+Precision:      85.90%
+Recall:         88.74%
+F1-Score:       86.49%

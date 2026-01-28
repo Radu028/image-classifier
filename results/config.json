@@ -1,0 +1,15 @@
+{
+  "model": "resnet18",
+  "epochs": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "freeze_backbone": false,
+  "timestamp": "2026-01-29T15:32:00.734590",
+  "final_metrics": {
+    "top1_accuracy": 86.33924215319564,
+    "top5_accuracy": 96.40591966173362,
+    "precision": 85.90331164220419,
+    "recall": 88.73881255318969,
+    "f1_score": 86.4927200379269
+  }
+}
